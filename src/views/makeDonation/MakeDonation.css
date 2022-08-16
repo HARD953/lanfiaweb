@@ -1,0 +1,40 @@
+.make-donation-container{
+    padding-top: 7rem;
+    background: rgb(248, 248, 248);
+}
+
+.make-donation-step-container{
+    margin-top: 3rem;
+}
+
+.make-donation-step-header{
+    
+    padding:2rem;
+}
+
+.step-btn-contenair{
+        display: block;
+}
+  
+.step-btn-contenair-md{
+    display: none;
+}
+
+.stepLoader-contenair{
+    padding: 2rem;
+    margin: 10rem;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+        
+    .step-btn-contenair{
+        display: none;
+    }
+
+    .step-btn-contenair-md{
+        display: block;
+    }
+
+}

@@ -1,0 +1,7 @@
+.first-step-donation-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-items: center;
+}
+
